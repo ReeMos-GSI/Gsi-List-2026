@@ -16,4 +16,3 @@
 | **Evolution X** | mytja | 15.0 | [Github](https://github.com/mytja/treble_evo/releases) | ARM64-BGN,BVN | Both Available
 | **LineageOS 22.2** | MisterZtr | 15.0 | [Github](https://github.com/MisterZtr/LineageOS_gsi/releases) | AB-EROFS,AB-EXT4 | Both Available
 | **AOSP** | ponces | 15.0 | [Github](https://github.com/ponces/treble_aosp/releases/tag/v2025.05.13) | ARM64-AB | Both Available
-| **AOSP** | TrebleDroid Builders | 15.0 | [Github](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20250415) | ARM64-AB,ARM32-AB | 
