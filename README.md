@@ -1,3 +1,9 @@
+**This is A List of GSIs which is similar to phhusson's GSI list which was Archived, This List Has The Android GSIs Released With Android 16**
+
+***Please View Logs.txt For Update History***
+***Note****This list Does Not Contain The Android 14 Official GSI by Google because of Non-Official Sources, Please view Ph Husson's GSI list for the Official Android 14 GSI by Google*
+
+
 | GSI Name | Maintainer | Android Version | Download/Source | Architecture | GMS or Vanilla
 | :--- | :--- | :--- | :--- | :--- | :-- |
 | **Google GSI** | Google | 16.0 (QPR3) | [Android Devlopers](https://www.google.com/url?sa=i&source=web&rct=j&url=https://developer.android.com/about/versions/16/gsi-release-notes&ved=2ahUKEwjNjoXvrpKSAxXWcGwGHXzBMpEQy_kOegYIAQgNEAI&opi=89978449&cd&psig=AOvVaw1ylnhOJWBfJ-U7uHIKV8F5&ust=1768732153725000) | ARM64 , x86_64 | Both Available
