@@ -17,4 +17,8 @@
 | **Everest OS** | kaii-lb | 14.0 | [Github](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3) | ARM64-Bgn,Bvn | Both Available
 | **Evoltuion X** | realahnet | 14.0 | [Github](https://github.com/realahnet/treble_evo/releases/tag/v8.3-20240207) | ARM64-BgN | GMS only
 | **DerpFest** | KoysX | 14.0 | [Github](https://github.com/KoysX/treble_DerpFest_GSI/releases/tag/v2024.02.12) | ARM64-BgN | GMS only
-| **HorizonDroid** | Braia | 14.0 | [SourceForge](https://sourceforge.net/projects/braiagsi/files/HorizonDroid/)
+| **HorizonDroid** | Braia | 14.0 | [SourceForge](https://sourceforge.net/projects/braiagsi/files/HorizonDroid/) | ARM64-AB | GAPPS only
+| **Evolution XYZ** | miyukocutee | 14 QPR2 |  [Github](https://github.com/miyukocutee/treble_evolution/releases/tag/9.0-udc-09052024) | ARM64-BgN | GMS only
+| **Project Sakura** | ChonDoIt | 14.0 | [Github](https://github.com/ChonDoit/treble_sakura_patches/releases/tag/A14-20240718) | ARM64-BGS,BVN | Both Available
+
+
