@@ -23,7 +23,7 @@
 | **AOSP** | ponces | 14.0 QPR3 | [Github](https://github.com/ponces/treble_aosp/releases/tag/v2024.08.16) | ARM64-AB, BINDER64 | Both Available
 | **Imbrogli OS** | iambroglius |  14.0 | [Github ](https://github.com/imbroglius/imbroglios_gsi/releases/tag/v2024.08.18//) | ARM64-AB | Both Available
 | **Pixel OS** | MisterZtr | 14.0 | [Github](https://github.com/MisterZtr/PixelOS_gsi/releases/tag/v2024.08.24)| ARM64-B | GMS only
-| **Voltage OS** | cawilliamson | [Github](https://github.com/cawilliamson/treble_voltage/releases/tag/3.7-20240915) | ARM64-AB, BINDER64 | Both Availabile With MicroG
+| **Voltage OS** | cawilliamson | 14.0 |  [Github](https://github.com/cawilliamson/treble_voltage/releases/tag/3.7-20240915) | ARM64-AB, BINDER64 | Both Availabile With MicroG
 
 
 
