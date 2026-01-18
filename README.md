@@ -14,4 +14,6 @@
 | **Evolution X** | mytja | 15.0 | [Github](https://github.com/mytja/treble_evo/releases) | ARM64-BGN,BVN | Both Available
 | **LineageOS 22.2** | MisterZtr | 15.0 | [Github](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.05-lineage22.2) | ARM64-AB | Both Available
 | **AOSP** | ponces | 15.0 | [Github](https://github.com/ponces/treble_aosp/releases/tag/v2025.05.13) | ARM64-AB | Both Available
-| **Everest OS** | kaii-lb | 14.0 | [Github](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3) | ARM64-Bgn,Bvn | Both Available 
+| **Everest OS** | kaii-lb | 14.0 | [Github](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3) | ARM64-Bgn,Bvn | Both Available
+| **Evoltuion X** | realahnet | 14.0 | [Github](https://github.com/realahnet/treble_evo/releases/tag/v8.3-20240207) | ARM64-BgN | GMS only
+| **DerpFest** | KoysX | 14.0 | [Github](https://github.com/KoysX/treble_DerpFest_GSI/releases/tag/v2024.02.12)
