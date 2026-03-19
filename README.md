@@ -28,33 +28,33 @@
 | **Derpfest 16.0** | Doze-off | 16.0 QPR0 | [GitHub](https://github.com/Doze-off/Derpfest_treble/releases/tag/2025-12-22) | ARM64-AB | GMS Only |
 | **Lineage OS 23** | MisterZtr | 16.0 | [GitHub](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.09-lineage23.0) | ARM64-AB | Both Available |
 | **PixelOS** | mytja | 16.0 | [GitHub](https://github.com/mytja/treble_pixelos/releases) | ARM64-AB | GMS Only |
-| **SuperiorOS** | ChonDoIt | 16.0 QPR0 | [GitHub](https://github.com/ChonDoit/treble_superior_patches/releases) | ARM64-AB | Both Available |
-| **Evolution X** | Doze-off | 16.0 QPR0 | [GitHub](https://github.com/Doze-off/treble_evo/releases) | ARM64-AB | GMS Only |
+| **SuperiorOS** | ChonDoit | 16.0 QPR0 | [GitHub](https://github.com/ChonDoit/treble_superior_patches/releases) | ARM64-AB | Both Available |
 
 ### Android 15 GSIs
 
 | GSI Name | Maintainer | Android Version | Download Link | Architecture | GMS or Vanilla |
 | --- | --- | --- | --- | --- | --- |
 | **Google GSI** | Google | 15.0 | [Android Developers](https://developer.android.com/about/versions/15/gsi-release-notes) | ARM64, x86_64 | Both Available |
-| **Evolution X** | mytja | 15.0 | [GitHub](https://github.com/mytja/treble_evo/releases) | ARM64-B | Both Available |
-| **LineageOS 22.2** | MisterZtr | 15.0 | [GitHub](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.05-lineage22.2) | ARM64-AB | Both Available |
-| **AOSP** | ponces | 15.0 | [GitHub](https://github.com/ponces/treble_aosp/releases/tag/v2025.05.13) | ARM64-AB | Both Available |
-| **/e/OS** | Murena | 15.0 | [Community](https://community.e.foundation/t/unofficial-gsi-android-15/71674) | ARM64-AB | Vanilla Only |
+| **/e/OS** | Murena | 15.0 | [Community](https://e.foundation) | ARM64-AB | Vanilla Only |
 | **PixelOS** | mytja | 15.0 | [GitHub](https://github.com/mytja/treble_pixelos/releases) | ARM64-AB | GMS Only |
-| **SuperiorOS** | ChonDoIt | 15.0 | [GitHub](https://github.com/ChonDoit/treble_superior_patches/releases) | ARM64-AB | Both Available |
+| **SuperiorOS** | ChonDoit | 15.0 | [GitHub](https://github.com/ChonDoit/treble_superior_patches/releases) | ARM64-AB | Both Available |
+| **AOSP** | ponces | 15.0 | [GitHub](https://github.com/ponces/treble_aosp/releases) | ARM64-AB | Both Available |
+| **LineageOS 22.2** | MisterZtr | 15.0 | [GitHub](https://github.com/MisterZtr/LineageOS_gsi/releases) | ARM64-AB | Both Available |
+| **Evolution X** | mytja | 15.0 | [GitHub](https://github.com/mytja/treble_evo) | ARM64-AB | GMS Only |
 
 ### Android 14 GSIs
 
 | GSI Name | Maintainer | Android Version | Download Link | Architecture | GMS or Vanilla |
 | --- | --- | --- | --- | --- | --- |
-| **Everest OS** | kaii-lb | 14.0 | [GitHub](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3) | ARM64-B | Both Available |
-| **Evolution X** | realahnet | 14.0 | [GitHub](https://github.com/realahnet/treble_evo/releases/tag/v8.3-20240207) | ARM64-B | GMS Only |
-| **DerpFest** | KoysX | 14.0 | [GitHub](https://github.com/KoysX/treble_DerpFest_GSI/releases/tag/v2024.02.12) | ARM64-B | GMS Only |
-| **HorizonDroid** | Braia | 14.0 | [SourceForge](https://sourceforge.net/projects/braiagsi/files/HorizonDroid/) | ARM64-AB | GAPPS Only |
+| **Google GSI** | Google | 14.0 | [Android Developers](https://developer.android.com/about/versions/14/gsi-release-notes) | ARM64, x86_64 | Both Available |
+| **Everest OS** | kali-lb | 14.0 | [GitHub](https://github.com/kali-linux/everest-os_gsi/releases) | ARM64-AB | GMS Only |
+| **Evolution X** | realahnet | 14.0 | [GitHub](https://github.com/realahnet/treble_evo/releases) | ARM64-AB | GMS Only |
+| **DerpFest** | KoysX | 14.0 | [GitHub](https://github.com/KoysX/treble_DerpFest_GSI/releases) | ARM64-AB | GMS Only |
+| **HorizonDroid** | Braia | 14.0 | [SourceForge](https://sourceforge.net/projects/horizondroid/files) | ARM64-AB | GMS Only |
 | **Evolution XYZ** | miyukocutee | 14.0 QPR2 | [GitHub](https://github.com/miyukocutee/treble_evolution/releases/tag/9.0-udc-09052024) | ARM64-BgN | GMS Only |
-| **Project Sakura** | ChonDoIt | 14.0 | [GitHub](https://github.com/ChonDoIt/treble_sakura_patches/releases/tag/A14-20240718) | ARM64-B | Both Available |
+| **Project Sakura** | ChonDolt | 14.0 | [GitHub](https://github.com/ChonDoit/treble_sakura_patches/releases/tag/A14-20240718) | ARM64-B | Both Available |
 | **AOSP** | ponces | 14.0 QPR3 | [GitHub](https://github.com/ponces/treble_aosp/releases) | ARM64-AB | Both Available |
-| **Imbrogli OS** | iambroglius | 14.0 | [GitHub](https://github.com/imbroglius/imbroglios_gsi/releases) | ARM64-AB | Both Available |
+| **Imbrogli OS** | iambroglius | 14.0 | [GitHub](https://github.com/imbroglius/imbroglis_gsi/releases) | ARM64-AB | Both Available |
 | **Pixel OS** | MisterZtr | 14.0 | [GitHub](https://github.com/MisterZtr/PixelOS_gsi/releases) | ARM64-AB | Both Available |
 | **Voltage OS** | cawilliamson | 14.0 | [GitHub](https://github.com/cawilliamson/treble_voltage/releases) | ARM64-AB, BINDER64 | Both Available |
 
@@ -65,3 +65,11 @@
 | **Google GSI** | Google | 13.0 | [Android Developers](https://developer.android.com/about/versions/13/gsi-release-notes) | ARM64, x86_64 | Both Available |
 | **Pixel Experience** | ponces | 13.0 | [GitHub](https://github.com/ponces/treble_build_pe/releases) | ARM64-AB | GMS Only |
 | **DerpFest** | KoysX | 13.0 | [GitHub](https://github.com/KoysX/treble_DerpFest_GSI/releases) | ARM64-B | GMS Only |
+| **crDroid** | naz664 | 13.0 | [GitHub](https://github.com/naz664/crDroid_gsi/releases) | ARM64-AB | Both Available |
+| **Evolution X** | realahnet | 13.0 | [GitHub](https://github.com/realahnet/treble_evo/releases) | ARM64-AB | GMS Only |
+| **TrebleDroid AOSP** | ponces / phhusson | 13.0 | [GitHub](https://github.com/ponces/treble_aosp/releases) | ARM64-AB | Both Available |
+
+### Android 12 GSIs
+
+| GSI Name | Maintainer | Android Version | Download Link | Architecture | GMS or Vanilla |
+| --- | --- | --- | --- | --- | --- |
