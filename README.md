@@ -1,4 +1,4 @@
-p**This is A List of GSIs which is similar to phhusson's GSI list which was Archived, This List Has The Android GSIs Released With Android 16**
+**This is A List of GSIs which is similar to phhusson's GSI list which was Archived, This List Has The Android GSIs Released With Android 16**
 
 *Please View Notes.md For Important Warnings*
 
@@ -20,7 +20,7 @@ p**This is A List of GSIs which is similar to phhusson's GSI list which was Arch
 ### Android 16 GSIs
 
 | GSI Name | Maintainer | Android Version | Download Link | Architecture | GMS or Vanilla |
-| :----------------------- | :---------------- | :-------------- | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :-------------------------------------- |
+| --- | --- | --- | --- | --- | --- |
 | **Google GSI** | Google | 16.0 (QPR3) | [Android Developers](https://developer.android.com/about/versions/16/gsi-release-notes) | ARM64, x86_64 | Both Available |
 | **TrebleDroid AOSP** | ponces / phhusson | 16.0 | [GitHub](https://github.com/ponces/treble_aosp) | ARM64-AB | Both Available |
 | **Voltage OS 5.2/5.1/5.0** | Doze-off | 16.0 QPR0 | [GitHub](https://github.com/Doze-off/voltage_a16_treble/releases) | ARM64-AB, ARM32-BINDER64 | Both Available (GMS only on V5.0) |
@@ -31,7 +31,7 @@ p**This is A List of GSIs which is similar to phhusson's GSI list which was Arch
 ### Android 15 GSIs
 
 | GSI Name | Maintainer | Android Version | Download Link | Architecture | GMS or Vanilla |
-| :----------------------- | :---------------- | :-------------- | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :-------------------------------------- |
+| --- | --- | --- | --- | --- | --- |
 | **Google GSI** | Google | 15.0 | [Android Developers](https://developer.android.com/about/versions/15/gsi-release-notes) | ARM64, x86_64 | Both Available |
 | **Evolution X** | mytja | 15.0 | [GitHub](https://github.com/mytja/treble_evo/releases) | ARM64-B | Both Available |
 | **LineageOS 22.2** | MisterZtr | 15.0 | [GitHub](https://github.com/MisterZtr/LineageOS_gsi/releases/tag/v2026.01.05-lineage22.2) | ARM64-AB | Both Available |
@@ -40,7 +40,7 @@ p**This is A List of GSIs which is similar to phhusson's GSI list which was Arch
 ### Android 14 GSIs
 
 | GSI Name | Maintainer | Android Version | Download Link | Architecture | GMS or Vanilla |
-| :----------------------- | :---------------- | :-------------- | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :-------------------------------------- |
+| --- | --- | --- | --- | --- | --- |
 | **Everest OS** | kaii-lb | 14.0 | [GitHub](https://github.com/kaii-lb/treble_manifest/releases/tag/v1.3) | ARM64-B | Both Available |
 | **Evolution X** | realahnet | 14.0 | [GitHub](https://github.com/realahnet/treble_evo/releases/tag/v8.3-20240207) | ARM64-B | GMS Only |
 | **DerpFest** | KoysX | 14.0 | [GitHub](https://github.com/KoysX/treble_DerpFest_GSI/releases/tag/v2024.02.12) | ARM64-B | GMS Only |
@@ -55,17 +55,22 @@ p**This is A List of GSIs which is similar to phhusson's GSI list which was Arch
 ### Android 13 GSIs
 
 | GSI Name | Maintainer | Android Version | Download Link | Architecture | GMS or Vanilla |
-| :----------------------- | :---------------- | :-------------- | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :-------------------------------------- |
+| --- | --- | --- | --- | --- | --- |
 | **Google GSI** | Google | 13.0 | [Android Developers](https://developer.android.com/about/versions/13/gsi-release-notes) | ARM64, x86_64 | Both Available |
 | **Pixel Experience** | ponces | 13.0 | [GitHub](https://github.com/ponces/treble_build_pe/releases) | ARM64-AB | GMS Only |
 | **DerpFest** | KoysX | 13.0 | [GitHub](https://github.com/KoysX/treble_DerpFest_GSI/releases/tag/v2023.11.26) | ARM64-B | GMS Only |
 | **LineageOS 20** | MisterZtr | 13.0 | [GitHub](https://github.com/MisterZtr/LineageOS_gsi/releases) | ARM64-AB | Both Available |
 | **/e/OS** | Murena | 13.0 | [Community](https://community.e.foundation/t/unofficial-gsi-android-13/63791) | ARM64-AB | Vanilla Only |
+| **LineageOS 20 (TD-Based)** | AndyYan | 13.0 | [GitHub](https://github.com/AndyYan/LineageOS_gsi/releases) | ARM64-AB | Both Available |
+| **PixelOS 13** | MisterZtr | 13.0 | [GitHub](https://github.com/MisterZtr/PixelOS_gsi/releases) | ARM64-B | GMS Only |
+| **VoltageOS 13** | ChonDoIt | 13.0 | [GitHub](https://github.com/ChonDoIt/VoltageOS_A13/releases) | ARM64-AB | Both Available |
 
 ### Android 12 GSIs
 
 | GSI Name | Maintainer | Android Version | Download Link | Architecture | GMS or Vanilla |
-| :----------------------- | :---------------- | :-------------- | :--------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :-------------------------------------- |
+| --- | --- | --- | --- | --- | --- |
 | **Google GSI** | Google | 12.1 | [Android Developers](https://developer.android.com/about/versions/12/gsi-release-notes) | ARM64, x86_64 | Both Available |
 | **AOSP (Phh-Treble)** | phhusson | 12.1 | [GitHub](https://github.com/phhusson/treble_experimentations/releases) | ARM64-AB | Both Available |
 | **Pixel Experience** | ponces | 12.0 | [GitHub](https://github.com/ponces/treble_build_pe/releases) | ARM64-AB | GMS Only |
+| **LineageOS 19.1** | AndyYan | 12.0 | [GitHub](https://github.com/AndyYan/LineageOS_gsi/releases) | ARM64-AB | Both Available |
+| **AOSP Extended** | ponces | 12.0 | [GitHub](https://github.com/ponces/treble_build_aospe/releases) | ARM64-AB | Both Available |
