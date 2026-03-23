@@ -15,7 +15,6 @@
 - [Android 15 GSIs](#android-15-gsis)
 - [Android 14 GSIs](#android-14-gsis)
 - [Android 13 GSIs](#android-13-gsis)
-- [Android 12 GSIs](#android-12-gsis)
 
 ### Android 16 GSIs
 
